@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Hilichurl",
+    "unitType": "Archery",
+    "uniqueTo": "Babylon",
+    "replaces": "Archer",
+    "movement": 5,
+    "rangedStrength": 20,
+    "range": 5,
+    "cost": 1,
+    "requiredTech": "Archery",
+    "attackSound": "arrow"
+  }
+]
