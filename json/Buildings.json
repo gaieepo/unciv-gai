@@ -1,0 +1,14 @@
+[
+	{
+		"name": "Ceo of Geo",
+		"uniqueTo": "Babylon",
+		"cost": 0,
+		"maintenance": 0,
+    "percentStatBonus": {
+      "food": 50,
+      "science": 50,
+      "production": 50,
+      "gold": 50
+    }
+	}
+]
