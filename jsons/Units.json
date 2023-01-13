@@ -1,5 +1,12 @@
 [
   {
+    "name": "Gai",
+    "unitType": "Civilian",
+    "uniqueTo": "Babylon",
+    "movement": 5,
+    "cost": 1
+  },
+  {
     "name": "Hilichurl",
     "unitType": "Archery",
     "uniqueTo": "Babylon",
