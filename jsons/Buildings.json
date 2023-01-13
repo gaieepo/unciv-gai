@@ -3,12 +3,10 @@
     "name": "Ceo of Geo",
     "uniqueTo": "Babylon",
     "cost": 1,
+    "food": 2,
+    "production": 1,
     "maintenance": 0,
-    "percentStatBonus": {
-      "food": 50,
-      "science": 50,
-      "production": 50,
-      "gold": 50
-    }
+    "percentStatBonus": {"production": 50},
+    "uniques": ["Boost up!!!"]
   }
 ]
