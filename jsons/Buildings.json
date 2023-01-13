@@ -2,7 +2,7 @@
 	{
 		"name": "Ceo of Geo",
 		"uniqueTo": "Babylon",
-		"cost": 0,
+		"cost": 1,
 		"maintenance": 0,
     "percentStatBonus": {
       "food": 50,
