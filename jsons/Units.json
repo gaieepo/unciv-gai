@@ -5,6 +5,7 @@
     "uniqueTo": "Babylon",
     "replaces": "Archer",
     "movement": 5,
+    "strength": 20,
     "rangedStrength": 20,
     "range": 5,
     "cost": 1,
