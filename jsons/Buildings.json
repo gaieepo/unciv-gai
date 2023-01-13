@@ -1,12 +1,10 @@
 [
   {
     "name": "Ceo of Geo",
-    "replaces": "Monument",
     "cost": 1,
     "food": 2,
     "production": 1,
     "maintenance": 0,
-    "percentStatBonus": {"production": 50},
-    "uniques": ["[2] free [Worker] units appear"]
+    "percentStatBonus": {"production": 50}
   }
 ]
